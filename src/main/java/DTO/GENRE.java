@@ -1,0 +1,5 @@
+package DTO;
+
+public enum GENRE {
+    RPG, STRATEGY, ADVENTURE, ACTION, SIMULATION, RACING
+}
